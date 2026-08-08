@@ -1,4 +1,4 @@
-// Last updated: 8/8/2026, 8:56:22 AM
+// Last updated: 8/8/2026, 8:56:30 AM
 1class Solution {
 2    public void sortColors(int[] nums) {
 3        int low = 0, mid = 0, high = nums.length - 1;
