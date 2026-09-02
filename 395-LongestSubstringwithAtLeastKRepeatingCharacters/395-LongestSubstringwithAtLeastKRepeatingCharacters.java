@@ -1,4 +1,4 @@
-// Last updated: 9/2/2026, 9:49:31 AM
+// Last updated: 9/2/2026, 9:49:41 AM
 1class Solution {
 2
 3    public int longestSubstring(String s, int k) {
