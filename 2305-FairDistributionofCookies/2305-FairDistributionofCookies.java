@@ -1,4 +1,4 @@
-// Last updated: 9/3/2026, 11:41:18 AM
+// Last updated: 9/3/2026, 11:42:49 AM
 1class Solution {
 2
 3    int ans = Integer.MAX_VALUE;
