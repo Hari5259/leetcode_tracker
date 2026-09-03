@@ -1,4 +1,4 @@
-// Last updated: 9/3/2026, 11:38:38 AM
+// Last updated: 9/3/2026, 11:38:48 AM
 1class Solution {
 2    public long minimumTime(int[] time, int totalTrips) {
 3
